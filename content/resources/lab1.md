@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains the lab exercise based on ArcGIS basics (introduction
   to ArcGIS, paper output.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-520-a-workshop-on-geographic-information-systems-fall-2005/42d5af4431c690b935e6da2ebcd925c8_lab1.pdf
+file: /media/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/42d5af4431c690b935e6da2ebcd925c8_lab1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: lab1.pdf
 uid: 42d5af44-31c6-90b9-35e6-da2ebcd925c8

@@ -3,8 +3,13 @@ content_type: resource
 description: This resource discusses the Database concepts and issues in GIS, relational
   database, structured Query Language, entity-relationship model, join and relate
   in ArcGIS.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-520-a-workshop-on-geographic-information-systems-fall-2005/b16e0d95535cab262d16233b82edeff6_lect_5.pdf
+file: /media/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/b16e0d95535cab262d16233b82edeff6_lect_5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect_5.pdf
 uid: b16e0d95-535c-ab26-2d16-233b82edeff6

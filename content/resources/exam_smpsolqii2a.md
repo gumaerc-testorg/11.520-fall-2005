@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource is a solution map for sample exam.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-520-a-workshop-on-geographic-information-systems-fall-2005/493f79ffe50432079f6cab811d5c9039_exam_smpsolqii2a.pdf
+file: /media/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/493f79ffe50432079f6cab811d5c9039_exam_smpsolqii2a.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: exam_smpsolqii2a.pdf
 uid: 493f79ff-e504-3207-9f6c-ab811d5c9039

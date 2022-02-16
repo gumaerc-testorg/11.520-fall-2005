@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource summarizes the common problems in the handed lab 1 and
   2, and give some examples in two grading levels: ''check+'' and ''check.'''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-520-a-workshop-on-geographic-information-systems-fall-2005/4cf583747a04af920de3cc60429533df_lab1_n_2_commnts.pdf
+file: /media/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/4cf583747a04af920de3cc60429533df_lab1_n_2_commnts.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: lab1_n_2_commnts.pdf
 uid: 4cf58374-7a04-af92-0de3-cc60429533df

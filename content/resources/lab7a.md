@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource is an in-lab notes for lab exercise 7 and contains homework
   questions for lab 2.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-520-a-workshop-on-geographic-information-systems-fall-2005/ad55b35194581595a3a4f33152de35d5_lab7a.pdf
+file: /media/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/ad55b35194581595a3a4f33152de35d5_lab7a.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: lab7a.pdf
 uid: ad55b351-9458-1595-a3a4-f33152de35d5

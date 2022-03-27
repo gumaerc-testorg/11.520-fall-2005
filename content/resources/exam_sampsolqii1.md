@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 0003fe60-976b-69a8-ff98-fbdbc114e104
 resourcetype: Document
 title: exam_sampsolqii1.pdf
 uid: d71ef5c0-3a7f-a0a9-0ec9-318ace462c02

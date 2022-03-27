@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 0003fe60-976b-69a8-ff98-fbdbc114e104
 resourcetype: Document
 title: exam_smpsolqii4b.pdf
 uid: ad2452c3-0f63-312a-07fa-d5e73903ef5e

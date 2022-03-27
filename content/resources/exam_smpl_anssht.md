@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 0003fe60-976b-69a8-ff98-fbdbc114e104
 resourcetype: Document
 title: exam_smpl_anssht.pdf
 uid: 2c2e63a5-3f5a-2227-6b73-ad583aa7ff65

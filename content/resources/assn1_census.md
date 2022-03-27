@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b31fbbd2-f0bd-92d5-2f43-3748cb083980
 resourcetype: Document
 title: assn1_census.pdf
 uid: ca3fb0e7-8b30-3eaf-d5a0-e5987971de27

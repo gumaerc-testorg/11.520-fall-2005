@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The exams section contains 2 exam files and 7 exam solutions file for
+  the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -11,4 +13,4 @@ This course makes use of Athena, MIT's UNIX-based computing environment. OCW doe
 
 The final exam from Fall 2005 is included below. The exam consists of two parts. The first part is a series of short answer questions totalling 41 points spread over 2 multi-part questions. The second part will examine your grasp of spatial analysis and mapping using ArcGIS. This section totals 59 points spread over four multi-part questions.
 
-Fall 2005 Exam ([PDF]({{< baseurl >}}/resources/exam05))
+Fall 2005 Exam ({{% resource_link 6adbbe13-de8c-aee7-b1fe-5e545e46e27b "PDF" %}})

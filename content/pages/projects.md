@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The projects section contains information about the summary of project
+  information and project content and write-up deadline for the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -40,4 +42,4 @@ The project is intended to require about as much time as one of the homework set
 *   Address a substantive issue or question that requires some problem formulation and some open-ended exploration and analysis.
     
 
-As explained in the class [syllabus]({{< baseurl >}}/pages/syllabus), the project write-up is due on the last day of class (Lec #19). But, every year, students request an extension. That's okay as long as you turn it in by the end of the second day after Lec #19, but you will lose 5 points per day. No project write-ups will be accepted **after Noon on the Monday after the due date**. We need time to grade them and we don't want this class to interfere with your preparation for other finals.
+As explained in the class {{% resource_link 75018591-4ecb-87d2-5bf7-a4ce3380daa1 "syllabus" %}}, the project write-up is due on the last day of class (Lec #19). But, every year, students request an extension. That's okay as long as you turn it in by the end of the second day after Lec #19, but you will lose 5 points per day. No project write-ups will be accepted **after Noon on the Monday after the due date**. We need time to grade them and we don't want this class to interfere with your preparation for other finals.

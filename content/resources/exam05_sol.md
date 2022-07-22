@@ -5,6 +5,7 @@ file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/ae8
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: exam05_sol.pdf
 uid: ae8768ad-0a92-b62d-9633-dee9a140295d
 ---
 This resource contains solutions to fall 2005 exam.
-

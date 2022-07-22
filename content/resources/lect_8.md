@@ -7,6 +7,7 @@ file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/436
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lect_8.pdf
 uid: 436e84e3-ba31-10f2-cbc4-611422121102
 ---
 This resource discusses the raster (model properties of uniformly spaced grid cells), comparing field and object models, and review of current and forthcoming class work.
-

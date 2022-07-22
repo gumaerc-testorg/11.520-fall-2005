@@ -6,6 +6,7 @@ file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/abe
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab5_vlocator.pdf
 uid: abe57c6d-282c-6913-9c5f-546cda138964
 ---
 This resource is a supplementry file for lab 5 used for finding the right census data file.
-

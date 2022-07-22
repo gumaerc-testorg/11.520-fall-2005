@@ -5,6 +5,7 @@ file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/281
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: exam_sample_sol.pdf
 uid: 281fef02-61a8-c253-3158-013c61031aa4
 ---
 This resource contains solutions to sample exam for the course.
-

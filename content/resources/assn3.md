@@ -6,6 +6,7 @@ file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/fe1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assn3.pdf
 uid: fe110920-578a-86ca-ae41-17483a9fdd85
 ---
 This resource contains 2 tasks based on Spatial Data Models and spatial analysis II (raster, network).
-

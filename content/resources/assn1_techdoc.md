@@ -5,6 +5,7 @@ file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/2dd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn1_techdoc.pdf
 uid: 2dd2acc5-dcfb-7f30-039e-e3328fa80a2e
 ---
 This resource is a supporting file for assignment of lab 2.
-

@@ -5,6 +5,7 @@ file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/502
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab6a.pdf
 uid: 502f360c-ea21-ff36-10dd-c0f369ab76de
 ---
 This resource is an in-lab notes for lab exercise 6.
-

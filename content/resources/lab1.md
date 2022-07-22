@@ -6,6 +6,7 @@ file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/42d
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab1.pdf
 uid: 42d5af44-31c6-90b9-35e6-da2ebcd925c8
 ---
 This resource contains the lab exercise based on ArcGIS basics (introduction to ArcGIS, paper output.
-

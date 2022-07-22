@@ -6,6 +6,7 @@ file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/ad5
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab7a.pdf
 uid: ad55b351-9458-1595-a3a4-f33152de35d5
 ---
 This resource is an in-lab notes for lab exercise 7 and contains homework questions for lab 2.
-

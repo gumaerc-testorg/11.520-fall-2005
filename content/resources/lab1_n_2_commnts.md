@@ -6,6 +6,7 @@ file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/4cf
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab1_n_2_commnts.pdf
 uid: 4cf58374-7a04-af92-0de3-cc60429533df
 ---
 This resource summarizes the common problems in the handed lab 1 and 2, and give some examples in two grading levels: 'check+' and 'check.'
-

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The readings section contains information about required readings for
+  the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 348f3530-f3b2-6a4a-14f3-ee6258eb290b
 ---
@@ -340,7 +345,7 @@ Project Work
 {{< tdopen >}}
 _Lecture 14_  
   
-Notes by Cherie Abbanat, DUSP writing specialist, on "Creating Your 11.188/11.520 Presentation and Report." ([PDF]({{< baseurl >}}/resources/lect_13))
+Notes by Cherie Abbanat, DUSP writing specialist, on "Creating Your 11.188/11.520 Presentation and Report." ({{% resource_link 45c8aa91-f30a-9998-0dcf-3126cfb5e0cc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

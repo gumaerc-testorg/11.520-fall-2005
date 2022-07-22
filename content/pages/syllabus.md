@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section contains information about meetings, goals, prerequisites,
+  requirements, grading, lateness policy, and texts.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 75018591-4ecb-87d2-5bf7-a4ce3380daa1
 ---
@@ -84,7 +88,7 @@ The prerequisites for the course are:
 Requirements
 ------------
 
-Students will be expected to complete weekly lab exercises plus three homework sets covering readings and basic GIS skills. Students will also complete one in-class test and a small project of the student's choosing that draws on the skills taught in the class. This project will be presented to the class in an oral presentation and a brief written report. The project should require about the same effort as one of the homework sets. Due dates for these requirements are given in the [calendar]({{< baseurl >}}/pages/calendar). The GIS exercises will use ArcGIS software.
+Students will be expected to complete weekly lab exercises plus three homework sets covering readings and basic GIS skills. Students will also complete one in-class test and a small project of the student's choosing that draws on the skills taught in the class. This project will be presented to the class in an oral presentation and a brief written report. The project should require about the same effort as one of the homework sets. Due dates for these requirements are given in the {{% resource_link b646616d-91a4-8cbb-d8ce-753291e31811 "calendar" %}}. The GIS exercises will use ArcGIS software.
 
 Grading
 -------

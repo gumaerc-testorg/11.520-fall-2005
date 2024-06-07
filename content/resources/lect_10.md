@@ -6,6 +6,7 @@ description: This resource discusses introduction to internet GIS and ArcIMS, th
   data streaming, introduction to ArcIMS, ArcIMS business logic tier, internet feature
   streaming.
 file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/cee2e7716859be85c625890041656331_lect_10.pdf
+file_size: 57422
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

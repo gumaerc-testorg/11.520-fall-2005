@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains sample questions for the course exam.
 file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/e823085f2ff530503f581af41c9908e7_exam_sample.pdf
+file_size: 51892
 file_type: application/pdf
 learning_resource_types:
 - Exams

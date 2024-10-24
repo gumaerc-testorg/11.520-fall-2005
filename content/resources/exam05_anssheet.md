@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the answer sheet for the fall 2005 exam.
-file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/13e6ce1db1c381d1e359e9d65567a8a7_exam05_anssheet.pdf
+file: /ol-ocw-studio-app/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/13e6ce1db1c381d1e359e9d65567a8a7_exam05_anssheet.pdf
 file_size: 13341
 file_type: application/pdf
 learning_resource_types:

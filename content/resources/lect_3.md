@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource discusses the elements of the map: map scale, symbology,
   classification and thematic shading, map projections, vector and raster data models.'
-file: /ol-ocw-studio-app/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/edb09c019745aa864170e2c007cc11a7_lect_3.pdf
+file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/edb09c019745aa864170e2c007cc11a7_lect_3.pdf
 file_size: 303608
 file_type: application/pdf
 learning_resource_types:

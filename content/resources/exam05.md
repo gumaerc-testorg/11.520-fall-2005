@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains questions asked in fall 2005 exam for the course.
-file: /ol-ocw-studio-app/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/6adbbe13de8caee7b1fe5e545e46e27b_exam05.pdf
+file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/6adbbe13de8caee7b1fe5e545e46e27b_exam05.pdf
 file_size: 55236
 file_type: application/pdf
 learning_resource_types:

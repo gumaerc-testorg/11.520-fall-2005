@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource discusses the major topic: spatial analysis (using vector-based
   data models), general spatial operations, buffering vector data and raster data,
   point and line in polygon, and polygon overlay, spatial analysis example.'
-file: /ol-ocw-studio-app/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/ba4f25bbab3bf66d44c4d2f2bfe290f5_lect_7.pdf
+file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/ba4f25bbab3bf66d44c4d2f2bfe290f5_lect_7.pdf
 file_size: 120550
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a solution map for the question asked in sample exam.
-file: /ol-ocw-studio-app/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/ad2452c30f63312a07fad5e73903ef5e_exam_smpsolqii4b.pdf
+file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/ad2452c30f63312a07fad5e73903ef5e_exam_smpsolqii4b.pdf
 file_size: 20438
 file_type: application/pdf
 learning_resource_types:

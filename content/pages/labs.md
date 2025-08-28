@@ -2,7 +2,7 @@
 content_type: page
 description: The labs section contains 16 lab files for the course.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 2c320811-a808-516d-d362-87b899df38ba

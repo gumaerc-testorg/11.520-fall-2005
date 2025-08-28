@@ -2,11 +2,11 @@
 content_type: resource
 description: This resource dicusses the lab exercise based on database aggregation,
   SQL, and charts.
-file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/49ca532a7674ece566913b2c80bd9fc0_lab4.pdf
+file: /ol-ocw-studio-app/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/49ca532a7674ece566913b2c80bd9fc0_lab4.pdf
 file_size: 449535
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

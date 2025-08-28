@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource discusses the assignment for the lab exercice 3.
-file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/4ef7da6ee23cccf357f79c3e734c0ec0_lab3_assn.pdf
+file: /ol-ocw-studio-app/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/4ef7da6ee23cccf357f79c3e734c0ec0_lab3_assn.pdf
 file_size: 15519
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

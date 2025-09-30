@@ -54,7 +54,7 @@ GIS Principles and Methods
 WinAthena Introduction (Required for Students who did not do CRN Computing Orientation)
 {{< tdclose >}}
 {{< tdopen >}}
-[NCGIA Core Curriculum in GIScience](http://ncgia.ucsb.edu/units/u002/u002.html) - [ncgia.ucsb.edu/units/u002/u002.html](http://ncgia.ucsb.edu/units/u002/u002.html)[Unit 2: What is GIS?](http://www.ncgia.ucsb.edu/giscc/units/u002/)  
+{{% resource_link "12296225-e0fa-4054-bd66-8806760ca4b4" "NCGIA Core Curriculum in GIScience" %}} - {{% resource_link "12296225-e0fa-4054-bd66-8806760ca4b4" "ncgia.ucsb.edu/units/u002/u002.html" %}}{{% resource_link "7dae7e47-0612-42c9-80bf-53f2799bac28" "Unit 2: What is GIS?" %}}  
   
 Worboys. pp. 1-15.
 {{< tdclose >}}
